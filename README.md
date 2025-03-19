@@ -8,7 +8,7 @@
 Для запуска проекта:
 - Cоздаете новую базу (ex: skinport)
 - В терминале
-  1. git clone url/etogo/repositoriya
+  1. git clone https://github.com/akhmedmukhtarov/skinport.git
   2. cd skinport
   2. npm i
 - В .env меняете значение на DATABASE_URL=postgres://your_pg_user:your_pg_password@localhost:5432/skinport где your_pg_user и your_pg_password ваш юзер и пароль от постгреса
